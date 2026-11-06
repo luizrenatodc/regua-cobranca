@@ -4,6 +4,12 @@ Automação que decide quais avisos de cobrança enviar a cada dia, sem esquecer
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js_24-339933?logo=nodedotjs&logoColor=white)
 
+## Veja funcionando
+
+![Avisos gerados para o dia simulado e testes passando.](docs/avisos.png)
+
+*Avisos gerados para o dia simulado e testes passando.*
+
 ## O problema
 
 Cobrar manualmente toma tempo do financeiro e depende de lembrar. Quando a cobrança atrasa, o dinheiro atrasa junto. E uma automação malfeita, que repete mensagem, irrita justamente quem você quer manter como cliente.
